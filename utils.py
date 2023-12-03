@@ -18,7 +18,6 @@ help(pd)
 
 
 import yfinance as yf
-pip install yfinance
 
 
 
